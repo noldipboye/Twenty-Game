@@ -85,3 +85,5 @@ alert("First the computer will go.")
 } while (end == "y")
 
 alert(`You played ${counter.length} time(s), lost ${counterlosep.length} time(s) while the computer lost ${counterlosec.length} time(s). You won ${counterwinp.length} time(s) and the computer won ${counterwinc.length} time(s).`)
+
+// Twenty Game :)
